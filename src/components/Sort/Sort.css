@@ -1,0 +1,14 @@
+select.sort {
+    flex: 1;
+    margin-left: 14px;
+    border-color: #d3d3d3;
+    padding: 10px;
+    border-radius: 5px;
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+  }
+  
+  select.sort:focus {
+    border-color: #333333;
+    outline: 0;
+  }
